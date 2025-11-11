@@ -1,4 +1,3 @@
-(The file `c:\Users\gos\Desktop\projetos\Cypress-QA\README.md` exists, but is empty)
 # Cypress-QA
 
 Projeto de testes de UI usando Cypress com suporte a Cucumber (BDD). Este repositório contém exemplos e testes organizados em `cypress/` que cobrem interações com formulários, uploads/downloads, validações de texto, hooks e um fluxo de checkout.
